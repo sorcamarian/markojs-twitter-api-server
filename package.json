@@ -1,0 +1,15 @@
+{
+  "name": "marko-twitter-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sorca Marian",
+  "license": "ISC",
+  "dependencies": {
+    "express" : "^4.16.2",
+    "twitter" : "^1.7.1"
+  }
+}
